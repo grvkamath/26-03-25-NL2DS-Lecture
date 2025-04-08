@@ -1,4 +1,4 @@
-sentence_length,n_splink,age,high_n_splink,old_speaker
+sequence_length,n_splink,age,high_n_splink,old_speaker
 145,42,38,1,0
 88,34,48,1,1
 85,27,77,0,1
